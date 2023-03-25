@@ -1,3 +1,5 @@
+![](https://media.tenor.com/dt1etVruHGAAAAAj/rylsee-tooshytorap.gif)
+
 # Inkify
  Inkify is a a meta-framework for Ink, A React based library for building Command line interfaces.
 
